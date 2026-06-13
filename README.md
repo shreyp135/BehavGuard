@@ -3,6 +3,7 @@
 
 BehaveGuard is a real-time behavioral continuous authentication system that verifies users by *how* they type—their motor rhythm, timing patterns, and muscle memory—rather than what they type. By silently capturing key press and release events, BehaveGuard extracts sequential temporal features, matches them against a user's behavioral profile, and flags anomalies in real time.
 
+* [kaggle notebook](https://www.kaggle.com/code/shreyanshakshit/notebook388616783e/notebook)
 ---
 
 ## Key Features
